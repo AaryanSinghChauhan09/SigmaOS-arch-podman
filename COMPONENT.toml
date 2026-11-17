@@ -3,7 +3,7 @@ name = "SigmaOS-arch-podman"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-podman component"
+description = "SigmaOS SigmaOS-arch-podman component"
 upstream = []
 
 [contract]
